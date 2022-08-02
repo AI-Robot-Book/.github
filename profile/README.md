@@ -1,5 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/6745835/182372813-df921abe-93af-4328-b58e-cd58d17e9506.jpg" hspace="20" vspace="150">
-各章のサンプルプログラムとサポート情報が満載ですよ．<br> <br>
+各章のサンプルプログラムとサポート情報が満載ですよ．作成中．．．<br> <br>
 <ul>
 <li><a href="https://github.com/AI-Robot-Book/chapter1">第１章　AIロボットをつくろう！</a></li>
 <li><a href="https://github.com/AI-Robot-Book/chapter2">第２章　はじめてのROS2</a></li>
