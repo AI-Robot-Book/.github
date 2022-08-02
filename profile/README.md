@@ -1,5 +1,4 @@
-![AIロボット入門](https://github.com/AI-Robot-Book/.github/blob/main/airobot_book_small.jpg)
-コンテンツ  
+![AIロボット入門](https://github.com/AI-Robot-Book/.github/blob/main/airobot_book_small.jpg)コンテンツ  
 - [第１章　AIロボットをつくろう！ ](https://github.com/AI-Robot-Book/chapter1) 
 - [第２章　はじめてのROS2](https://github.com/AI-Robot-Book/chapter2)  
 - [第３章　音声認識・合成](https://github.com/AI-Robot-Book/chapter3)
