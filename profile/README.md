@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/6745835/182372813-df921abe-93af-4328-b58e-cd58d17e9506.jpg" hspace="20">
+<img align="left" src="https://user-images.githubusercontent.com/6745835/182372813-df921abe-93af-4328-b58e-cd58d17e9506.jpg" hspace="20" vspace="50">
 <h4>コンテンツ </h4>  
 各章のサンプルプログラムとサポート情報を掲載しています．
 <ul>
