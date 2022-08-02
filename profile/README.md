@@ -1,4 +1,4 @@
-
+![AIロボット入門](https://github.com/AI-Robot-Book/.github/blob/main/airobot_book.jpg)
 
 # コンテンツ  
 - [第１章　AIロボットをつくろう！ ](https://github.com/AI-Robot-Book/chapter1) 
