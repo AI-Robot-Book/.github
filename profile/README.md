@@ -1,5 +1,5 @@
 <img align="left" src="https://github.com/AI-Robot-Book/.github/blob/main/airobot_book_small.jpg" >
-コンテンツ  <br>  
+<strong>コンテンツ </strong> <br>  
 <ul>
 <li><a href="https://github.com/AI-Robot-Book/chapter1">第１章　AIロボットをつくろう！</a></li>
 <li><a href="https://github.com/AI-Robot-Book/chapter2">第２章　はじめてのROS2</a></li>
