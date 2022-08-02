@@ -12,4 +12,4 @@
 - [付録D 　座標系と姿勢の表現](https://github.com/AI-Robot-Book/appendixD)
 - [付録E　 tf：座標系の管理](https://github.com/AI-Robot-Book/appendixE)
 - [解答例](https://github.com/AI-Robot-Book/answers)
-- 正誤表
+- [正誤表](https://github.com/AI-Robot-Book/errata)
