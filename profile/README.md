@@ -1,5 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/6745835/182372813-df921abe-93af-4328-b58e-cd58d17e9506.jpg" hspace="20" vspace="150">
-ROS2とPythonで作って学ぶAIロボット入門（出村・萩原・升谷・タン著，講談社）の公式サポートサイトです．各章のサンプルプログラムとサポート情報が満載ですよ．<br> <br>
+ROS2とPythonで作って学ぶAIロボット入門の公式サポートサイトです．各章のサンプルプログラムとサポート情報が満載ですよ．<br> 
 
 - [第1章　AIロボットをつくろう！](https://github.com/AI-Robot-Book/chapter1)
 - [第2章　はじめてのROS2](https://github.com/AI-Robot-Book/chapter2)
