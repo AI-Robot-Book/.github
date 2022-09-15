@@ -15,3 +15,5 @@ ROS2とPythonで作って学ぶAIロボット入門の公式サポートサイ�
 - [付録E　tf：座標系の管理](https://github.com/AI-Robot-Book/appendixE)
 - [各章の解答例](https://github.com/AI-Robot-Book/answers)
 - [正誤表](https://github.com/AI-Robot-Book/errata)
+
+[お問い合わせ（Googleフォーム）](https://docs.google.com/forms/d/e/1FAIpQLSeLmDO9092WNUv-V1fqho09uzcJ0XwqhwaJsMqq1pIYgB8lKA/viewform?usp=sf_link)
